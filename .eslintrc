@@ -1,0 +1,7 @@
+{
+  "extends": "think",
+  "rules": {
+    "no-console": 0,
+    "no-trailing-spaces": "off"
+  }
+}
